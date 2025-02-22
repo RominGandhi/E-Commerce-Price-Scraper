@@ -1,0 +1,4 @@
+discord.py
+supabase
+selenium
+webdriver-manager

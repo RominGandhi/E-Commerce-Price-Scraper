@@ -1,0 +1,43 @@
+{
+    "bestbuy.ca": {
+        "price": "//div[contains(@class, 'style-module_price__ql4Q1')]//div"
+    },
+    "canadacomputers": {
+        "price": "//*[@id='main']//div[contains(@class, 'product-price')]//div[contains(@class, 'current-price')]/span"
+    },
+    "amazon.ca": {
+        "price_whole": "//span[contains(@class, 'a-price-whole')]",
+        "price_fraction": "//span[contains(@class, 'a-price-fraction')]"
+    },
+    "ebay.ca": {
+        "price": "//*[@id='mainContent']/div/div[3]/div/div/div[1]/span"
+    },
+    "canadiantire.ca": {
+        "price": "//*[@id='nl-buy-box']/div[1]/div/span"
+    },
+    "memoryexpress.com": {
+        "price": "//*[@id='ProductPricing']/div[4]/div[2]/div"
+    },
+    "staples.ca": {
+        "price": "//*[@id='product-page-component-container']/div[2]/div[1]/div[1]/div[4]/div/span/div/div[3]/div/div[1]/p"
+    }, 
+    "sephora.ca": {
+        "price": "/html/body/div[4]/main/section/div[1]/div[1]/div[2]/p/span/span[1]/b[1]"
+    }, 
+    "lcbo.com": {
+        "price": "//*[@id='product-price-140011']/span"
+    }, 
+    "costco.ca": {
+    "price": "//*[@id='pull-right-price']/span[1]"
+
+    },
+    "ikea.ca": {
+    "price": "//*[@id='pip-buy-module-content']/div[1]/div[1]/div[2]/div/span/span[1]/span[1]/span[2]"
+    }
+
+
+
+
+
+}
+

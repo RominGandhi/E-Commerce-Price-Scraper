@@ -1,0 +1,6 @@
+{
+    "channel_id": "YOUR CHANNEL ID",
+    "BOT_TOKEN": "YOUR BOT TOKEN",
+    "SUPABASE_URL": "YOUR SUPABASE URL",
+    "SUPABASE_KEY": "YOUR SUPABASE KEY"
+}
